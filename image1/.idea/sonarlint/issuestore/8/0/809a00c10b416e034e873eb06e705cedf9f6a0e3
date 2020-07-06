@@ -1,0 +1,12 @@
+
+Gsquid:S1989"&Add a "try/catch" block for "valueOf".(üø‘’úÿÿÿÿ8÷™¦œ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8÷™¦œ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²º­¢8Ã–Ú¡.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8÷™¦œ.
+qsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8÷™¦œ.
+@squid:S1989"$Add a "try/catch" block for "write".(ŠÀ‘’8÷™¦œ.
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î8÷™¦œ.
+hsquid:S1192"GDefine a constant instead of duplicating this literal "reason" 3 times.(›’ĞŒûÿÿÿÿ8÷™¦œ.
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Ó”ó–ùÿÿÿÿ8÷™¦œ.
+Osquid:S1989".Add a "try/catch" block for "getOutputStream".(™ë÷¨üÿÿÿÿ8÷™¦œ.
+>squid:S1989"#Add a "try/catch" block for "read".(îÀJ8÷™¦œ.
